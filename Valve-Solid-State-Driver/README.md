@@ -16,9 +16,6 @@ There are also two jumpers on the board: one to enable or disable the negative B
 
 Size: 55x90mm
 
-![Image](https://github.com/user-attachments/assets/39091491-f04e-4fb6-ab4e-b1f458aec831)
+![Image](https://github.com/user-attachments/assets/88af9366-d703-41a0-9672-bc931fb8bf2b)
 
-![Image](https://github.com/user-attachments/assets/496dac93-5b3a-4936-9f56-801d4e7ddc45)
-
-![Image](https://github.com/user-attachments/assets/fb6583e5-0277-417a-955a-d1b9635756df)
-
+![Image](https://github.com/user-attachments/assets/fa24e9d0-c3a2-49e3-b08e-15e65739397c)
