@@ -14,6 +14,10 @@ The middle two-pad connector allows you to connect the transformer output to cre
 
 There are also two jumpers on the board: one to enable or disable the negative BIAS, and another to bypass the filtering capacity at the circuit's input if you don't need DC protection.
 
+You can follow the progress of this project in this forum thread:
+
+https://www.diyaudio.com/community/threads/tube-solid-state-driver-for-300b-or-2a3.429680/
+
 Size: 55x90mm
 
 ![Image](https://github.com/user-attachments/assets/88af9366-d703-41a0-9672-bc931fb8bf2b)
