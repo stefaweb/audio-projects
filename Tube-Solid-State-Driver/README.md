@@ -24,6 +24,8 @@ Size: 55x90mm
 
 ![Image](https://github.com/user-attachments/assets/fa24e9d0-c3a2-49e3-b08e-15e65739397c)
 
+![Image](https://github.com/user-attachments/assets/1ce20207-52f1-44ab-bf8f-2eb49538455f)
+
 ![Image](https://github.com/user-attachments/assets/7d73b8b2-8d67-4eb4-ae11-2f6ca4ff38a3)
 
 ![Image](https://github.com/user-attachments/assets/930b7d53-a633-4f03-b4ef-f5825c7f4ad7)
