@@ -2,6 +2,8 @@
 
 <b>Under development.</b>
 
+The project will be available in early September 2025.
+
 This board will allow you to drive power tubes like the 300B or the 2A3 (or others tubes with few modifications).
 
 The only components needed to make a single-ended Tube amplifier are the solid-state driver board, the power tubes, the RK- resistors and capacitors, an AC-DC power supply for the heater, the HV AC-DC power supply and the output transformers.
