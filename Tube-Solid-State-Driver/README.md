@@ -20,9 +20,9 @@ https://www.diyaudio.com/community/threads/tube-solid-state-driver-for-300b-or-2
 
 Size: 55x90mm
 
-![Image](https://github.com/user-attachments/assets/88af9366-d703-41a0-9672-bc931fb8bf2b)
+![Image](https://github.com/user-attachments/assets/ea91c132-5fee-4df3-b8e2-8a4b6cfcae04)
 
-![Image](https://github.com/user-attachments/assets/fa24e9d0-c3a2-49e3-b08e-15e65739397c)
+![Image](https://github.com/user-attachments/assets/e4c2428d-7867-4c56-b3ee-a5320dc03384)
 
 ![Image](https://github.com/user-attachments/assets/1ce20207-52f1-44ab-bf8f-2eb49538455f)
 
