@@ -28,6 +28,10 @@ Size: 55x90mm
 
 ![Image](https://github.com/user-attachments/assets/1ce20207-52f1-44ab-bf8f-2eb49538455f)
 
+<img width="1280" height="807" alt="Image" src="https://github.com/user-attachments/assets/0b68d158-fd54-4c99-aa56-f527ae1286b3" />
+
+With 3dB feedback.
+
 <img width="1276" height="808" alt="Image" src="https://github.com/user-attachments/assets/6a5d12b3-b147-4f75-a89f-2c4c7bca51c3" />
 
 ![Image](https://github.com/user-attachments/assets/930b7d53-a633-4f03-b4ef-f5825c7f4ad7)
