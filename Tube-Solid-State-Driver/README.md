@@ -18,7 +18,7 @@ https://www.diyaudio.com/community/threads/tube-solid-state-driver-for-300b-or-2
 
 The manufacturing files are available on my Github repository in the file Tube-SolidState-Driver-production-1.0.1.zip.
 
-For those who would like to build the board, you can find the Gerber files in the directory, as well as the BOM and position files, allowing you to manufacture the PCB assembly and SMD components directly at JLPC or another company that offers the same service.
+For those who would like to build the board, you can find the Gerber files in the zip file, as well as the BOM and position files, allowing you to manufacture the PCB assembly and SMD components directly at JLPC or another company that offers the same service.
 
 Size: 55x90mm
 
