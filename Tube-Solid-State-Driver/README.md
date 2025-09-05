@@ -1,14 +1,10 @@
 # Tube-Solid-State-Driver
 
-<b>Under development.</b>
-
-The project will be available in early September 2025.
-
-This board will allow you to drive power tubes like the 300B or the 2A3 (or others tubes with few modifications).
+This board allow you to drive power tubes like the 300B or the 2A3 (or others tubes with few modifications).
 
 The only components needed to make a single-ended Tube amplifier are the solid-state driver board, the power tubes, the RK- resistors and capacitors, an AC-DC power supply for the heater, the HV AC-DC power supply and the output transformers.
 
-Here's what it should look like. You have a stereo input via two RCA jacks on one side. On the other side, two connectors for each channel, with one pad for B+, one for the tube grid, one for the negative BIAS (optional), and one for GND.
+Here's what it look like. You have a stereo input via two RCA jacks on one side. On the other side, two connectors for each channel, with one pad for B+, one for the tube grid, one for the negative BIAS (optional), and one for GND.
 
 A central connector under the PCB allows you to connect an external stereo potentiometer (optional).
 
@@ -19,6 +15,10 @@ There are also two jumpers on the board: one to enable or disable the negative B
 You can follow the progress of this project in this forum thread:
 
 https://www.diyaudio.com/community/threads/tube-solid-state-driver-for-300b-or-2a3.429680/
+
+The manufacturing files are available on my Github repository in the file Tube-SolidState-Driver-production-1.0.1.zip.
+
+For those who would like to build the board, you can find the Gerber files in the directory, as well as the BOM and position files, allowing you to manufacture the PCB assembly and SMD components directly at JLPC or another company that offers the same service.
 
 Size: 55x90mm
 
