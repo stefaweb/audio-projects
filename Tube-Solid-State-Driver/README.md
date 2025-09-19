@@ -22,11 +22,13 @@ For those who would like to build the board, you can find the Gerber files in th
 
 Size: 55x90mm
 
+Without feedback.
+
 ![Image](https://github.com/user-attachments/assets/ea91c132-5fee-4df3-b8e2-8a4b6cfcae04)
 
 ![Image](https://github.com/user-attachments/assets/e4c2428d-7867-4c56-b3ee-a5320dc03384)
 
-![Image](https://github.com/user-attachments/assets/1ce20207-52f1-44ab-bf8f-2eb49538455f)
+![Image](https://github.com/user-attachments/assets/5fbf3036-982b-4244-bb89-179814beb848)
 
 <img width="1280" height="807" alt="Image" src="https://github.com/user-attachments/assets/0b68d158-fd54-4c99-aa56-f527ae1286b3" />
 
