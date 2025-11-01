@@ -38,4 +38,4 @@ With 3dB feedback.
 
 ![Image](https://github.com/user-attachments/assets/930b7d53-a633-4f03-b4ef-f5825c7f4ad7)
 
-![Image](https://github.com/user-attachments/assets/3cb0daa6-65fe-498c-9dc5-2eb9e9a2228d)
+![Image](https://github.com/user-attachments/assets/1bfb7ec7-985e-4d5e-bbc9-c773124972fe)
