@@ -30,6 +30,8 @@ Without feedback.
 
 ![Image](https://github.com/user-attachments/assets/5fbf3036-982b-4244-bb89-179814beb848)
 
+![Image](https://github.com/user-attachments/assets/17d133b1-b912-4f96-9af0-c97c58b2e322)
+
 <img width="1280" height="807" alt="Image" src="https://github.com/user-attachments/assets/0b68d158-fd54-4c99-aa56-f527ae1286b3" />
 
 With 3dB feedback.
